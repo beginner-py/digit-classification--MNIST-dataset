@@ -3,7 +3,7 @@
 This project demonstrates a simple Neural Network (NN) for image classification using a publicly available dataset from Keras.
 The project is designed for beginners to understand the basic workflow of deep learning—right from data preprocessing using OpenCV to building and training a neural network with Keras and making predictions.
 
-├── dataset/                  # Downloaded Keras dataset (e.g., MNIST, CIFAR-10)
+├── dataset/                  # Downloaded Keras dataset (e.g., MNIST)
 ├── preprocessing/            # Image preprocessing scripts using OpenCV
 ├── model/                    # Neural Network model definition and training code
 ├── prediction_system.py      # Script to classify new images
